@@ -1,4 +1,4 @@
-# Plan-TDiseaseClassificationWebApp
+# Plan-T Disease AI Classification
 
 PixelHacks 1st place. Hackathon project from March 2022
 
@@ -6,7 +6,7 @@ PixelHacks 1st place. Hackathon project from March 2022
 Early treatment and prevention leads to healthy plants. Healthy plants lead to healthy people, animals, and a healthy planet. We want to help our planet become healthier. Also, my grandparents were rural farmers who were not well informed of the best ways to take care of plants and prevent plant diseases.
 
 ## What it does
-Our simple and efficient instructions and tips help you and your fellow planters plan the best times and ways to water your plants so that they are healthy and robust. We also help diagnose any of your currently affected plants so you can receive an initial diagnosis needed for further treatment.
+Our simple and efficient instructions and tips and AI model helps you and your fellow planters plan the best times and ways to water your plants so that they are healthy and robust. We also help diagnose any of your currently affected plants so you can receive an initial diagnosis needed for further treatment.
 
 ## How we built it
 HTML, CSS, REPLIT, GOOGLE FONTS, Python
